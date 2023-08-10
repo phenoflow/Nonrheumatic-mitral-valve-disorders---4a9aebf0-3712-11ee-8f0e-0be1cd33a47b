@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/valve---primary.py
+inputModule3:
+  class: File
+  path: python/nonrheumatic-mitral-valve-disorders---primary.py
+inputModule4:
+  class: File
+  path: python/nonrheumatic-mitral-valve-disorders-incompetence---primary.py
+inputModule5:
+  class: File
+  path: python/nonrheumatic-mitral-valve-disorders-regurgitation---primary.py
+inputModule6:
+  class: File
+  path: python/nonrheumatic-mitral-valve-disorders-prolapse---primary.py
+inputModule7:
+  class: File
+  path: python/other-nonrheumatic-mitral-valve-disorders---primary.py
+inputModule8:
+  class: File
+  path: python/nonrheumatic-mitral-valve---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
